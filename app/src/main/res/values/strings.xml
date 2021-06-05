@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotificationAssignment</string>
+    <string name="email_error">Empty!</string>
+    <string name="error_invalid_email">Invalid Email</string>
+    <string name="password_error">Empty!</string>
+    <string name="error_invalid_pass">Invalid password</string>
+</resources>
